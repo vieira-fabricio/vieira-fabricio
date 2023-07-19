@@ -3,8 +3,8 @@
 </div>
 
 ### Fabricio Vieira 👋
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-vieira-fabricio-blue?logo=linkedin)](https://www.linkedin.com/in/vieira-fabricio)
-[![Instagram](https://img.shields.io/badge/www.instagram.com/diar.iodev-blue?logo=google-chrome)](https://www.instagram.com/diar.iodev)
+[![LinkedIn: Fabricio Vieira](https://img.shields.io/badge/vieira-fabricio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vieira-fabricio)](https://www.linkedin.com/in/vieira-fabricio)
+[![Instagram](https://img.shields.io/badge/diar.iodev-blue?logo=Instagram&link=https://www.instagram.com/diar.iodev)](https://www.instagram.com/diar.iodev)
 
 Sou um desenvolvedor junior apaixonado por tecnologia, com foco em criar soluções inovadoras e impactantes. Com formação em programação e análise de sistemas e uma mente super curiosa, estou sempre em busca de novos desafios para expandir meu conhecimento e habilidades.
 
