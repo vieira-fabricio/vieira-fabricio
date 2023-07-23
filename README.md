@@ -5,6 +5,7 @@
 ### Fabricio Vieira 👋
 [![LinkedIn: Fabricio Vieira](https://img.shields.io/badge/vieira-fabricio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vieira-fabricio)](https://www.linkedin.com/in/vieira-fabricio)
 [![Instagram](https://img.shields.io/badge/diar.iodev-blue?logo=Instagram&link=https://www.instagram.com/diar.iodev)](https://www.instagram.com/diar.iodev)
+[![Youtube](https://img.shields.io/badge/Diar.ioD3v-blue?logo=Youtube&link=https://www.youtube.com/@Diar.ioD3v)](https://www.youtube.com/@Diar.ioD3v)
 
 Sou um desenvolvedor junior apaixonado por tecnologia, com foco em criar soluções inovadoras e impactantes. Com formação em programação e análise de sistemas e uma mente super curiosa, estou sempre em busca de novos desafios para expandir meu conhecimento e habilidades.
 
