@@ -19,8 +19,7 @@ Sou um desenvolvedor junior apaixonado por tecnologia, com foco em criar solu√ß√
     [![My Skills](https://skillicons.dev/icons?i=spring,angular)](https://skillicons.dev)
 - Dados: 
 
-    [![My Skills](https://skillicons.dev/icons?i=mysql,postegress)](https://skillicons.dev)
-    <img height="40" src="https://github.com/vieira-fabricio/icons/blob/main/postgresql.svg">
+    [![My Skills](https://skillicons.dev/icons?i=mysql,postegress)](https://skillicons.dev) <img height="40" src="https://github.com/vieira-fabricio/icons/blob/main/postgresql.svg">
 - Ferramentas e Tecnologias: 
 
     [![My Skills](https://skillicons.dev/icons?i=git,github,visualstudio,eclipse)](https://skillicons.dev)
